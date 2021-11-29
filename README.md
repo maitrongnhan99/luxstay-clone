@@ -8,7 +8,7 @@ This is a "just for fun project" to clone Luxstay website.
 You are free to modify, save, share but do not use for trading .
 ## Preview
 
-[Take a look](https://maitrongnhan99.github.io/tabs-UI/)
+[Take a look](https://maitrongnhan99.github.io/luxstay-clone/)
 
 ## Authors
 
